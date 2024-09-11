@@ -1,6 +1,7 @@
 # Flutter ToDo App
 
 A basic to-do app built with Flutter. This app has add/delete/update functionality with a search option for any existing to-do item in the app.
+Play Store link: https://play.google.com/store/apps/details?id=com.dhruv.todo
 
 Screenshots:
 
